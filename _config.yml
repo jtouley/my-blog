@@ -23,7 +23,7 @@ email: jtouley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog about technology, AI, and data engineering.
   Insights, experiments, and thoughts on modern computing and beyond.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/my-blog" # the subpath of your site, e.g. /blog
 url: "https://jtouley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jtouley
 
