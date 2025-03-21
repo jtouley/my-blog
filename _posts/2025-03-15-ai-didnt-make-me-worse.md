@@ -5,7 +5,7 @@ date: 2025-03-15
 categories: ai technology
 ---
 
-![DE using AI](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iIHUGPgz-e3_77C7NQLNSg.png)
+![DE using AI](https://jtouley.github.io/my-blog/assets/images/ai_thought_partner.png)
 ***Microsoft says AI is making engineers dumber. My experience says otherwise. AI isn't a crutch — it's a force multiplier that lets me iterate, refine, and deliver at a higher level. Here’s why the study is misguided and how AI is making me a better engineer.***
 
 In my [last article](https://medium.com/@jtouley/how-i-use-ai-as-a-recursive-thought-partner-and-why-you-should-too-26027b0106da), I explained how to use AI as a recursive thought partner to iterate on ideas. But a recent [Microsoft study](https://www.pcgamer.com/software/ai/microsoft-co-authored-paper-suggests-the-regular-use-of-gen-ai-can-leave-users-with-a-diminished-skill-for-independent-problem-solving-and-at-least-one-ai-model-seems-to-agree/) claims that engineers who rely on AI-assisted coding might lose problem-solving skills over time. The underlying assumption? That AI weakens our ability to think critically and troubleshoot issues independently.  
