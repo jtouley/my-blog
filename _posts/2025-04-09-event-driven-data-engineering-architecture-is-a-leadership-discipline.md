@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Event-Driven Data Engineering: Architecture Is a Leadership Discipline"
-date: 2025-04-08
+date: 2025-04-09
 categories: data-engineering architecture leadership
 ---
 

@@ -5,7 +5,7 @@ date: 2025-04-08
 categories: leadership culture
 ---
 
-In previous posts, I’ve shared the mindsets that shape my approach to data leadership—from challenging legacy norms in [*Who Moved My Cheese Shaped My Approach to Data Leadership*](https://medium.com/@jtouley/how-who-moved-my-cheese-shaped-my-approach-to-data-leadership-b692af9ec175) to driving sustainable technical strategies in [*The Power of the Done Once, Done Right Mindset in Data*](https://medium.com/@jtouley/building-future-ready-data-architectures-the-power-of-the-done-once-done-right-mindset-in-data-407bf6799c9b).
+In previous posts, I’ve shared the mindsets that shape my approach to data leadership—from challenging legacy norms in [*Who Moved My Cheese Shaped My Approach to Data Leadership*](https://jtouley.substack.com/p/how-who-moved-my-cheese-shaped-my-approach-to-data-leadershiphtml) to driving sustainable technical strategies in [*The Power of the Done Once, Done Right Mindset in Data*](https://jtouley.substack.com/p/building-future-ready-data-architectures-done-once-done-righthtml).
 
 But leadership isn’t just about what you believe—it’s about how you operate. This document is my attempt to codify that. It’s the way I hold myself accountable and the expectations I set for others who carry the title of “leader.”
 
@@ -109,3 +109,15 @@ If you're ready to meet that line—or rise above it—we’re going to do incre
 **If this resonates—or challenges you—I’d love to hear your thoughts.**  
 Leadership isn’t static, and I’m always refining how I show up.  
 Drop a comment or reach out directly. Let’s build better teams, together.
+
+### P.S.  
+This piece builds on ideas explored across my prior work:
+
+- In [*The HBR Framework Falls Short in Data and Engineering Leadership*](https://jtouley.substack.com/p/the-hbr-framework-falls-short-in-data-and-engineering-leadershiphtml), I showed why soft approaches often collapse under the weight of technical complexity and misaligned incentives.
+
+- In [*Ambition Is Not the Problem*](https://jtouley.substack.com/p/ambition-is-not-the-problem-a-manifesto-against-resume-driven-developmenthtml), I defended the kind of intellectual drive and ownership mindset that brittle systems and legacy cultures tend to suppress.
+
+- In [*The Maginot Mindset: Why Data Organizations Fail in the Age of AI*](https://jtouley.substack.com/p/the-maginot-mindset-why-data-organizations-fail-in-the-age-of-aihtml), I explored how historical patterns of over-engineered defense and underdeveloped adaptability are repeating themselves in how we approach tooling, governance, and strategy.
+
+This isn’t just about architecture or tooling. It’s about survival.  
+You can’t build adaptive systems without adaptive people—and you can’t lead adaptive people with outdated thinking.
